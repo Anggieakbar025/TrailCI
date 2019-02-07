@@ -1,0 +1,231 @@
+#salam {
+	margin-top: 20vh !important;
+	margin-bottom: 1vh !important;
+	text-align: center;
+}
+
+.profil {
+	margin-bottom: 20vh;
+}
+
+.gambar {
+	border-radius: 10vh;
+}
+
+.isi {
+	padding-left: 63vh !important;
+}
+
+.alert {
+	margin-left: -60vh !important;
+}
+
+.jalan {
+	font-size: 20px;
+	padding-top: 1px !important;
+	padding-bottom: 1px !important;
+	z-index: 2;
+	width: 100%;
+	font-size: 17px;
+	position: absolute;
+	background: #365cad !important;
+}
+
+.logo {
+	font-size: 40px;
+	font-family: Ravie;
+}
+
+.keterangankiri {
+	margin-top: 10vh !important;
+	margin-left: 1.5vh;
+	width: 600px !important;
+	text-align: right;
+	padding-right: 8vh !important;
+}
+
+.keterangankanan {
+	margin-top: 10vh !important;
+	padding-left: 15vh;
+	width: 610px !important;
+}
+
+h1 {
+	font-size: 7vh;
+}
+
+.content {
+	padding-top: 10vh;
+	margin-bottom: 10vh;
+}
+
+.main {
+	padding-top: 5vh !important;
+}
+
+.bd-placeholder-img {
+	height: 90vh !important;
+}
+
+.tambahan {
+	margin-bottom: 30vh !important;
+}
+
+footer {
+	margin-top: 20px;
+	background-color: #365cad !important;
+	color: white;
+	
+}
+
+footer a {
+	color : white;
+}
+
+.log {
+	font-size: 3vh;
+	margin-left: 20px;
+}
+
+.social .fa {
+	color: grey;
+	font-size: 22px;
+	padding: 10px 15px;
+	background: #3c3c3c;
+}
+
+
+.fas, .fab {
+	font-size: 15vh;
+}
+
+
+.jalan a:hover {
+	text-decoration: none;
+	color: cyan !important;
+}
+
+footer a:hover {
+	text-decoration: none;
+	color: #bfbfbf !important;
+}
+
+.badge {
+	margin-left: 3px;
+}
+
+.jumbotron {
+	background-color: #4274d7 !important;
+	color: white !important;
+	margin-bottom: 0px !important;
+}
+
+.bg {
+	background-image: url(../bg2.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+
+#foot {
+	font-weight: bolder;
+}
+
+#gambar {
+	font-size: 30px;
+	margin-top: -8vh;
+	margin-left: 20vh;
+	position: relative;
+}
+
+#title {
+	text-align: center;
+	margin-top: 10vh;
+	font-weight: bolder;
+	position: relative;
+}
+
+.subtitle {
+	font-weight: bolder;
+}
+
+.item {
+	margin-left: 15vh;
+	font-weight: bolder;
+}
+ 
+.cari {
+    margin-left: 90vh;
+}
+
+.utama {
+    margin-top: 15vh;
+}
+
+.header {
+	margin-left: 16vh;
+	font-size: 30px;
+}
+
+.menuju {
+	margin-left: 137vh !important;
+	font-size: 30px;
+}
+
+.tabel {
+	background-color: #4274d7;
+	color: maroon;
+}
+.tabel:hover {
+	color: black;
+	background-color: #ffcccc;
+	z-index: 0;
+}
+#navbar {
+  overflow: hidden;
+}
+
+#navbar a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+.spzl {
+	margin-left: 157vh !important;
+}
+
+.jumbotron a {
+	text-decoration: none;
+	color: white;
+}
+
+.dropdown-item {
+	color: black !important;
+}
+
+.dropdown-item:hover {
+	color: white !important;
+	background-color: #4274d7
+}
+
+.carousel-indicators {
+	z-index: 1;
+}
+
+.booking {
+	margin-left: 124.5vh;
+}
